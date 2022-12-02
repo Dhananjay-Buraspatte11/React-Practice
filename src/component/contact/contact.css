@@ -1,0 +1,10 @@
+.contact-card{
+    color: rgb(255, 0, 255);
+    border: 2px solid blue;
+    width: 350px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
